@@ -1,4 +1,9 @@
 # メンダコ vs ウーパールーパー
+<img width=30% alt="MendakoVSUparupa_tumbnail" src="https://github.com/user-attachments/assets/6840deea-adfb-47f7-adfd-b9f803e4151e" />
+
+## デモ動画
+
+[プレイ動画(無音)](https://drive.google.com/file/d/1AM2C2TA3CRL0S4l8SOmQv6y9sXNO4xEb/view?usp=sharing)
 
 ## 概要
 ボードゲーム「ガイスター」をもとにした、<br>
@@ -58,9 +63,6 @@ Photon fusion2.0.1
 ![獲得アニメーション(本物)](./img/pic_7.png)
 ![獲得アニメーション(偽物)](./img/pic_9.png)
 ![スキルカード](./img/pic_10.png)
-
-## 動作例動画
-[プレイ動画(無音)](https://drive.google.com/file/d/1AM2C2TA3CRL0S4l8SOmQv6y9sXNO4xEb/view?usp=sharing)
 
 ## 分担詳細
 協力
