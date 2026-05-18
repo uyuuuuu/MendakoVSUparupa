@@ -5,6 +5,9 @@
 
 [プレイ動画(無音)](https://drive.google.com/file/d/1AM2C2TA3CRL0S4l8SOmQv6y9sXNO4xEb/view?usp=sharing)
 
+## スライド
+https://docs.google.com/presentation/d/17AH4hxZ2e3otYW6PkCiCYbTjIk-NTp8ogfndIIu0PhE/edit?usp=sharing
+
 ## 概要
 ボードゲーム「ガイスター」をもとにした、<br>
 <strong>将棋×心理戦×カードゲーム</strong><br>
